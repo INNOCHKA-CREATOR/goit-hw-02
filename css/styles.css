@@ -1,0 +1,207 @@
+/* base stales */
+
+/* font-family: "Raleway", "Roboto"  sans-serif; */
+
+section {
+
+}
+
+/* main styles */
+a:hover {
+    color: #404BBF;}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+
+}
+ 
+body {font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #ffffff; }
+
+
+h1{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+text-align: center;
+color: #fff;
+ 
+}
+
+h2{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+color: #2e2f42;
+}
+
+h3{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+color: #2e2f42;
+
+}
+
+p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455
+
+}
+
+/* header */
+
+.header{
+
+}
+
+.header-nav{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;  
+    color: #4d5ae5;
+
+}
+
+.header-logo{
+
+}
+.span-logo {
+    color:#4d5ae5;
+}
+
+.header-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+
+}
+.header-link:active {
+    color #404BBF;
+}
+
+.header-adress{
+
+}
+
+.header-adress-nav {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
+}
+
+/* main */
+
+.section{
+
+}
+
+/*region HERO image  */
+
+.section-solutins {
+ background-color: #2e2f42;
+ }
+
+
+/* region Effective Solutions for Your Business */
+.section-solutins{
+
+}
+
+.button{
+    cursor: pointer;
+   background-color: #4d5ae5;
+}
+
+.our-features{
+
+}
+
+.our-features-list{
+
+}
+
+.our-features-item{
+
+}
+
+/* region Our Team */
+.section-team{
+    background-color: #F4F4FD;
+
+}
+
+.our-team{
+
+}
+
+.our-team-list{
+
+
+}
+
+.our-team-item{
+ background-color: white;
+}
+
+/* region Our Portfolio */
+
+.section-team{
+}
+.section-portfolio{
+
+}
+
+.our-portfolio{
+
+}
+
+.our-portfolio-list{
+   
+}
+
+.our-portfolio-item{
+padding: 0px 0px 32px;
+
+}
+
+/* footer */
+
+.footer{
+    background-color: #2e2f42;
+
+}
+
+.footer-link {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    color: #f4f4fd;
+}
+
+
+.span-logo-footer{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.footer p {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #f4f4fd;
+}
+
+
+
+
